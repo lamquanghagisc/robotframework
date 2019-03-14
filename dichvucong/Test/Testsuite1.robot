@@ -15,3 +15,6 @@ Open Browser To Login Page
    Sleep    2      
    Close Browser 
    Log    hoan thanh test case    
+Open Browser To dichvucong
+    Log    test    
+    
