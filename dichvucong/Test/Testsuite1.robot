@@ -16,5 +16,5 @@ Open Browser To Login Page
    Close Browser 
    Log    hoan thanh test case    
 Open Browser To dichvucong
-    Log    test    
+    Log    test dich vu cong
     
